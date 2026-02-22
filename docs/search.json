@@ -49,48 +49,6 @@
     "text": "Interests\nRunning, sports, travel, history, trivia, film, literature."
   },
   {
-    "objectID": "CLAUDE.html",
-    "href": "CLAUDE.html",
-    "title": "CLAUDE.md",
-    "section": "",
-    "text": "This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.\n\n\nThis is a personal website built with Quarto, a scientific/technical publishing system. Source files are .qmd (Quarto Markdown) and the site is rendered to the _site/ directory.\n\n\n\n# Start live preview server (auto-reloads on file changes)\nquarto preview\n\n# Render the full site to _site/\nquarto render\n\n# Render a single page\nquarto render index.qmd\n\n\n\n\n_quarto.yml — Site-wide configuration: navbar, theme, CSS, output format\nindex.qmd — Home/landing page (hero section, 3-column feature grid, CTA buttons)\nabout.qmd — Bio page (experience, education, skills)\ncoding-projects.qmd — Coding projects portfolio page\nresearch-projects.qmd — Research projects portfolio page\nstyles.css — Custom CSS layered on top of the Bootstrap/Cosmo theme\n_site/ — Build output (git-ignored via _site/ entry in .gitignore)\n\nThe site uses the cosmo Bootstrap theme plus a brand theme layer, with toc: true enabled globally. Adding a new page requires creating a .qmd file and registering it in _quarto.yml under website.navbar.\n\n\n\nTo add a project to coding-projects.qmd or research-projects.qmd, use a ::: {.project-card} div block. Each file contains a commented-out template showing the expected structure, including how to embed a Shiny app via &lt;iframe src=\"https://yourusername.shinyapps.io/app-name/\"&gt;.\n\n\n\nHome | About | Projects ▾ (Coding Projects / Research Projects) | LinkedIn icon | GitHub icon"
-  },
-  {
-    "objectID": "CLAUDE.html#project-overview",
-    "href": "CLAUDE.html#project-overview",
-    "title": "CLAUDE.md",
-    "section": "",
-    "text": "This is a personal website built with Quarto, a scientific/technical publishing system. Source files are .qmd (Quarto Markdown) and the site is rendered to the _site/ directory."
-  },
-  {
-    "objectID": "CLAUDE.html#key-commands",
-    "href": "CLAUDE.html#key-commands",
-    "title": "CLAUDE.md",
-    "section": "",
-    "text": "# Start live preview server (auto-reloads on file changes)\nquarto preview\n\n# Render the full site to _site/\nquarto render\n\n# Render a single page\nquarto render index.qmd"
-  },
-  {
-    "objectID": "CLAUDE.html#architecture",
-    "href": "CLAUDE.html#architecture",
-    "title": "CLAUDE.md",
-    "section": "",
-    "text": "_quarto.yml — Site-wide configuration: navbar, theme, CSS, output format\nindex.qmd — Home/landing page (hero section, 3-column feature grid, CTA buttons)\nabout.qmd — Bio page (experience, education, skills)\ncoding-projects.qmd — Coding projects portfolio page\nresearch-projects.qmd — Research projects portfolio page\nstyles.css — Custom CSS layered on top of the Bootstrap/Cosmo theme\n_site/ — Build output (git-ignored via _site/ entry in .gitignore)\n\nThe site uses the cosmo Bootstrap theme plus a brand theme layer, with toc: true enabled globally. Adding a new page requires creating a .qmd file and registering it in _quarto.yml under website.navbar."
-  },
-  {
-    "objectID": "CLAUDE.html#adding-projects",
-    "href": "CLAUDE.html#adding-projects",
-    "title": "CLAUDE.md",
-    "section": "",
-    "text": "To add a project to coding-projects.qmd or research-projects.qmd, use a ::: {.project-card} div block. Each file contains a commented-out template showing the expected structure, including how to embed a Shiny app via &lt;iframe src=\"https://yourusername.shinyapps.io/app-name/\"&gt;."
-  },
-  {
-    "objectID": "CLAUDE.html#navbar-structure",
-    "href": "CLAUDE.html#navbar-structure",
-    "title": "CLAUDE.md",
-    "section": "",
-    "text": "Home | About | Projects ▾ (Coding Projects / Research Projects) | LinkedIn icon | GitHub icon"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Todd Iodice, CFA",
