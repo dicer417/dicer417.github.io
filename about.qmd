@@ -1,14 +1,21 @@
 ---
-title: "About Me"
+title: "Todd Iodice, CFA"
+about:
+  template: trestles
+  image: images/profile.jpg
+  image-shape: rounded
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/todd-iodice
+    - icon: envelope
+      text: Email
+      href: mailto:toddiodice417@gmail.com
 toc: true
 toc-title: "On This Page"
 ---
 
-## Todd Iodice, CFA
-
-**Baltimore, MD** | toddiodice417@gmail.com | [LinkedIn](https://www.linkedin.com/in/todd-iodice)
-
-I'm a quantitative finance professional and data scientist with a track record of building high-impact tools and driving innovation at one of the world's leading investment management firms. I combine deep financial domain knowledge with strong software engineering skills to solve complex, high-stakes problems at the intersection of markets, data, and technology.
+Quantitative finance professional and data scientist with over five years of experience at T. Rowe Price, where I've led portfolio implementation for ETFs and multi-asset strategies, built internal APIs and analytical tools, and spearheaded quantitative research initiatives. I hold a CFA charter, a BS in Economics and BA in Mathematics from Duke University (Magna Cum Laude), and an MS in Computer Science from Johns Hopkins University with a focus on Data Science and Cloud Computing.
 
 ---
 
