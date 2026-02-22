@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "research-projects.html",
-    "href": "research-projects.html",
-    "title": "Research Projects",
-    "section": "",
-    "text": "A collection of my quantitative research and data science projects. Topics span macroeconomic modeling, alternative data, machine learning, and portfolio analytics.\n\n\n\n\n\n\n\n\nNote\n\n\n\nResearch write-ups coming soon. Check back shortly."
-  },
-  {
     "objectID": "coding-projects.html",
     "href": "coding-projects.html",
     "title": "Coding Projects",
@@ -49,6 +42,27 @@
     "text": "Interests\nRunning, sports, travel, history, trivia, film, literature."
   },
   {
+    "objectID": "research-projects.html",
+    "href": "research-projects.html",
+    "title": "Research Projects",
+    "section": "",
+    "text": "A collection of my quantitative research and data science projects. Topics span macroeconomic modeling, alternative data, machine learning, and portfolio analytics.\n\n\n\n\n\n\n\n\nNote\n\n\n\nResearch write-ups coming soon. Check back shortly."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Todd Iodice, CFA",
+    "section": "",
+    "text": "I’m a quantitative finance professional and data scientist with over five years of experience at T. Rowe Price, where I’ve led portfolio implementation for ETFs and multi-asset strategies, built internal APIs and analytical tools, and spearheaded quantitative research initiatives. I hold a CFA charter, a BS in Economics and BA in Mathematics from Duke University (Magna Cum Laude), and am completing an MS in Computer Science at Johns Hopkins University with a focus on Data Science and Cloud Computing.\nThis site showcases my coding projects and research work. Feel free to explore, or jump straight to my About page for a full background."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Todd Iodice, CFA",
+    "section": "",
+    "text": "I’m a quantitative finance professional and data scientist with over five years of experience at T. Rowe Price, where I’ve led portfolio implementation for ETFs and multi-asset strategies, built internal APIs and analytical tools, and spearheaded quantitative research initiatives. I hold a CFA charter, a BS in Economics and BA in Mathematics from Duke University (Magna Cum Laude), and am completing an MS in Computer Science at Johns Hopkins University with a focus on Data Science and Cloud Computing.\nThis site showcases my coding projects and research work. Feel free to explore, or jump straight to my About page for a full background."
+  },
+  {
     "objectID": "CLAUDE.html",
     "href": "CLAUDE.html",
     "title": "CLAUDE.md",
@@ -89,19 +103,5 @@
     "title": "CLAUDE.md",
     "section": "",
     "text": "Home | About | Projects ▾ (Coding Projects / Research Projects) | LinkedIn icon | GitHub icon"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Todd Iodice, CFA",
-    "section": "",
-    "text": "I’m a quantitative finance professional and data scientist with over five years of experience at T. Rowe Price, where I’ve led portfolio implementation for ETFs and multi-asset strategies, built internal APIs and analytical tools, and spearheaded quantitative research initiatives. I hold a CFA charter, a BS in Economics and BA in Mathematics from Duke University (Magna Cum Laude), and am completing an MS in Computer Science at Johns Hopkins University with a focus on Data Science and Cloud Computing.\nThis site showcases my coding projects and research work. Feel free to explore, or jump straight to my About page for a full background."
-  },
-  {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Todd Iodice, CFA",
-    "section": "",
-    "text": "I’m a quantitative finance professional and data scientist with over five years of experience at T. Rowe Price, where I’ve led portfolio implementation for ETFs and multi-asset strategies, built internal APIs and analytical tools, and spearheaded quantitative research initiatives. I hold a CFA charter, a BS in Economics and BA in Mathematics from Duke University (Magna Cum Laude), and am completing an MS in Computer Science at Johns Hopkins University with a focus on Data Science and Cloud Computing.\nThis site showcases my coding projects and research work. Feel free to explore, or jump straight to my About page for a full background."
   }
 ]
