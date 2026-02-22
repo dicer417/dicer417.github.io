@@ -2,7 +2,7 @@ name: Render Site
 
 on:
   push:
-    branches: [main]
+    branches: [claude-updates-2]
   workflow_dispatch:
 
 jobs:
