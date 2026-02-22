@@ -49,8 +49,13 @@ body {
   margin-top: 0;
 }
 
-/* ── About page table ────────────────────────────────────── */
+/* ── About page (trestles template) ─────────────────────── */
 table {
+  width: 100%;
+}
+
+#quarto-content .about-image {
+  max-width: 260px;
   width: 100%;
 }
 
