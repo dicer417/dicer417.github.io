@@ -29,4 +29,4 @@ quarto render
 
 - **Framework:** [Quarto](https://quarto.org/) (`.qmd` source files → static HTML)
 - **Theme:** Bootstrap Cosmo + custom CSS
-- **Hosting:** GitHub Pages *(or update as applicable)*
+- **Hosting:** GitHub Pages (deployed automatically via GitHub Actions on push to `main`)
