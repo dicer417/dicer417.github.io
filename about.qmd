@@ -1,0 +1,73 @@
+---
+title: "About Me"
+toc: true
+toc-title: "On This Page"
+---
+
+## Todd Iodice, CFA
+
+**Baltimore, MD** | toddiodice417@gmail.com | [LinkedIn](https://www.linkedin.com/in/todd-iodice)
+
+I'm a quantitative finance professional and data scientist with a track record of building high-impact tools and driving innovation at one of the world's leading investment management firms. I combine deep financial domain knowledge with strong software engineering skills to solve complex, high-stakes problems at the intersection of markets, data, and technology.
+
+---
+
+## Experience
+
+### T. Rowe Price — Baltimore, MD
+
+**Lead Portfolio Investment Analyst, Associate Vice President** | *June 2021 – Present*
+
+- Led portfolio implementation for ETFs and multi-asset strategies, managing day-to-day operations of some of the firm's most complex accounts, including an internal hedge fund and volatility-based strategies.
+- Modeled across equities, fixed income, ABS, swaps, and options with near-zero error tolerance in a fast-paced trading environment.
+- Researched implementation considerations for new and existing strategies, resulting in improved capital efficiency, reduced transaction costs, narrower tracking error, and more efficient workflows.
+- Developed the **Target Weight Service** API to generate account models and internal benchmarks, enabling scalable implementation of complex account requirements from portfolio managers and clients.
+- Headed the **Global Trading Innovations** team, enabling members of the Global Trading division with quantitative and technical skills to collaborate, share best practices, and develop high-quality tools.
+- Ran (and won) a division-wide hackathon that spurred 7 impactful ideas to fruition.
+- Coded tools to automate workflows and improve accuracy, resulting in a significant reduction in error incidents and enabling 3 new strategies and dozens of new accounts without additional headcount.
+- Directed requirements, prioritization, and testing for Technology teams to transition off legacy systems, build data services, and provide infrastructure for business-developed APIs.
+- Managed 1 summer intern, mentored 2 junior associates, and trained 4 new team members.
+
+**Investment Fellow** | *June 2019 – May 2021*
+
+- Rotated through 4 of the firm's quantitative research teams across Equity, Fixed Income, and Multi-Asset.
+- Researched macroeconomic factors and developed global regime models, improving Multi-Asset Steering Committee decisions on asset allocation for Target Date Funds.
+- Developed quantitative investment signals using alternative data sources — including employment reviews and credit card transactions — to identify opportunities for the firm's quantitative equity strategies.
+- Created data tools and performed ad-hoc analyses to support the fundamental equity research platform.
+
+---
+
+## Education
+
+**CFA Charterholder** — CFA Institute
+*Passed all three examinations on the first attempt | November 2023*
+
+---
+
+**MS in Computer Science** — Johns Hopkins University, Baltimore, MD
+*Part-time | GPA: 3.99 | May 2025*
+Area of Focus: Data Science and Cloud Computing
+*Relevant Courses: Machine Learning, Information Retrieval, Large-Scale Database Systems*
+
+---
+
+**BS in Economics** (Concentration in Finance) & **BA in Mathematics** — Duke University, Durham, NC
+*GPA: 3.90 | Magna Cum Laude | May 2019*
+*Relevant Courses: Econometrics, Numerical Analysis, Mathematical Finance, Probability*
+
+---
+
+## Skills
+
+| Category | Details |
+|---|---|
+| **Programming** | R, Python, SQL, Java |
+| **Tools & Platforms** | Claude Code, Amazon Kiro, Docker, Git, CI/CD, Postman, Charles River |
+| **Finance** | Equities, Fixed Income, ABS, Derivatives, ETFs, Portfolio Implementation |
+| **Office** | Microsoft Office, Excel (advanced) |
+
+---
+
+## Interests
+
+Running, sports, travel, history, trivia, film, literature.

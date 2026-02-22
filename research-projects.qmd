@@ -1,0 +1,31 @@
+---
+title: "Research Projects"
+toc: true
+toc-title: "Projects"
+---
+
+A collection of my quantitative research and data science projects. Topics span macroeconomic modeling, alternative data, machine learning, and portfolio analytics.
+
+---
+
+<!--
+HOW TO ADD A PROJECT
+=====================
+Copy the template block below and fill in your details.
+For rendered Quarto reports or notebooks, link to the HTML output or embed inline.
+
+::: {.project-card}
+## Project Title
+
+**Tags:** `Python` `Machine Learning` `Macro`
+
+Brief description of the research question, methodology, and findings.
+
+[Read Report](link-to-report.html){.btn .btn-sm .btn-primary .me-1}
+[View Code](https://github.com/yourusername/repo){.btn .btn-sm .btn-outline-primary}
+:::
+-->
+
+::: {.callout-note}
+Research write-ups coming soon. Check back shortly.
+:::

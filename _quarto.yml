@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: "Todd Iodice"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - text: Projects
+        menu:
+          - href: coding-projects.qmd
+            text: Coding Projects
+          - href: research-projects.qmd
+            text: Research Projects
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/todd-iodice
+        aria-label: LinkedIn
+      - icon: github
+        href: https://github.com/
+        aria-label: GitHub
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true

@@ -1,0 +1,36 @@
+---
+title: "Coding Projects"
+toc: true
+toc-title: "Projects"
+---
+
+A collection of my personal and professional coding projects spanning quantitative finance, data science, and software engineering. Projects include standalone tools, interactive Shiny dashboards, and API/backend work.
+
+---
+
+<!--
+HOW TO ADD A PROJECT
+=====================
+Copy the template block below and fill in your details.
+For Shiny apps, embed them with an <iframe> pointing to your shinyapps.io URL:
+
+::: {.project-card}
+## Project Title
+
+**Tags:** `R` `Shiny` `Finance`
+
+Brief description of what the project does and why it's interesting.
+
+[View Code](https://github.com/yourusername/repo){.btn .btn-sm .btn-outline-primary .me-1}
+[Live Demo](https://yourusername.shinyapps.io/app-name/){.btn .btn-sm .btn-primary}
+
+<details>
+<summary>Preview</summary>
+<iframe src="https://yourusername.shinyapps.io/app-name/" width="100%" height="600px" style="border:1px solid #dee2e6; border-radius:4px;"></iframe>
+</details>
+:::
+-->
+
+::: {.callout-note}
+Projects coming soon. Check back shortly, or visit my [GitHub](https://github.com/) to see work in progress.
+:::
