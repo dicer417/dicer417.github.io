@@ -209,6 +209,7 @@ __marimo__/
 /.quarto/
 **/*.quarto_ipynb
 _site/
+/_freeze/
 .claude/settings.local.json
 Norway pic.JPG
 
