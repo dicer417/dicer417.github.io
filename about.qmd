@@ -15,7 +15,7 @@ toc: true
 toc-title: "On This Page"
 ---
 
-Quantitative finance professional and data scientist with over five years of experience at T. Rowe Price, where I've led portfolio implementation for ETFs and multi-asset strategies, built internal APIs and analytical tools, and spearheaded quantitative research initiatives. I hold a CFA charter, a BS in Economics and BA in Mathematics from Duke University (Magna Cum Laude), and an MS in Computer Science from Johns Hopkins University with a focus on Data Science and Cloud Computing.
+Quantitative finance professional and data scientist with over five years of experience at T. Rowe Price, where I've led portfolio implementation for ETFs and multi-asset strategies, built internal tools and AI agents, and spearheaded quantitative research initiatives. I hold a CFA charter, a BS in Economics and BA in Mathematics from Duke University (Magna Cum Laude), and an MS in Computer Science from Johns Hopkins University with a focus on Data Science and Cloud Computing.
 
 ---
 
@@ -25,15 +25,14 @@ Quantitative finance professional and data scientist with over five years of exp
 
 **Lead Portfolio Investment Analyst, Associate Vice President** | *June 2021 – Present*
 
-- Led portfolio implementation for ETFs and multi-asset strategies, managing day-to-day operations of some of the firm's most complex accounts, including an internal hedge fund and volatility-based strategies.
-- Modeled across equities, fixed income, ABS, swaps, and options with near-zero error tolerance in a fast-paced trading environment.
-- Researched implementation considerations for new and existing strategies, resulting in improved capital efficiency, reduced transaction costs, narrower tracking error, and more efficient workflows.
-- Developed the **Target Weight Service** API to generate account models and internal benchmarks, enabling scalable implementation of complex account requirements from portfolio managers and clients.
+- Overhauled the firm's approach to customized accounts and benchmarks by developing the **Model Maker** tool, enabling the firm to open dozens of new accounts with complex requirements from portfolio managers and clients in a scalable manner without increasing headcount or operational risk.
+- Led portfolio implementation and managed operations for the firm's ETFs and multi-asset strategies, including investment proposals to improve capital efficiency, tracking error minimization, cashflow investment, cash management, and trade modeling across all asset classes — especially derivatives.
+- Created AI agents using **Amazon Kiro** to expedite software development and perform business functions using customized tooling, for purposes such as cash monitoring and basket generation.
 - Headed the **Global Trading Innovations** team, enabling members of the Global Trading division with quantitative and technical skills to collaborate, share best practices, and develop high-quality tools.
 - Ran (and won) a division-wide hackathon that spurred 7 impactful ideas to fruition.
-- Coded tools to automate workflows and improve accuracy, resulting in a significant reduction in error incidents and enabling 3 new strategies and dozens of new accounts without additional headcount.
+- Coded tools to automate workflows and improve accuracy, resulting in a significant reduction in error incidents and enabling the introduction of 3 new multi-asset strategies.
 - Directed requirements, prioritization, and testing for Technology teams to transition off legacy systems, build data services, and provide infrastructure for business-developed APIs.
-- Managed 1 summer intern, mentored 2 junior associates, and trained 4 new team members.
+- Managed 2 interns, mentored 2 junior associates, and trained dozens of team members on coding, data, and best practices.
 
 **Investment Fellow** | *June 2019 – May 2021*
 
