@@ -9,7 +9,7 @@ toc: false
 
 ## Welcome
 
-I'm a quantitative finance professional and data scientist with over five years of experience at T. Rowe Price, where I've led portfolio implementation for ETFs and multi-asset strategies, built internal APIs and analytical tools, and spearheaded quantitative research initiatives. I hold a CFA charter, a BS in Economics and BA in Mathematics from Duke University (Magna Cum Laude), and am completing an MS in Computer Science at Johns Hopkins University with a focus on Data Science and Cloud Computing.
+I'm a quantitative finance professional and data scientist with over five years of experience at T. Rowe Price, where I've led portfolio implementation for ETFs and multi-asset strategies, built internal tools and AI agents, and spearheaded quantitative research initiatives. I hold a CFA charter, a BS in Economics and BA in Mathematics from Duke University (Magna Cum Laude), and an MS in Computer Science from Johns Hopkins University with a focus on Data Science and Cloud Computing.
 
 This site showcases my [coding projects](coding-projects.qmd) and [research work](research-projects.qmd). Feel free to explore, or jump straight to my [About page](about.qmd) for a full background.
 
@@ -31,7 +31,7 @@ Machine learning, information retrieval, and large-scale database systems. Resea
 
 ::: {.g-col-12 .g-col-md-4}
 ### Software Engineering
-API development, workflow automation, and tool-building in R, Python, SQL, and Java. Experience with Docker, Git, CI/CD, and cloud computing.
+Tool-building, workflow automation, and AI agent development in R, Python, SQL, and Java. Experience with Amazon Kiro, Docker, Git, CI/CD, and cloud computing.
 :::
 
 :::
