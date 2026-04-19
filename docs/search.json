@@ -21,6 +21,13 @@
     "text": "ML Algorithms from Scratch\nTags: Python Machine Learning NumPy pandas\nThree machine learning algorithms implemented from scratch — no scikit-learn, no deep learning frameworks. Each algorithm supports both classification and regression and is benchmarked on six UCI datasets: Breast Cancer Wisconsin, Car Evaluation, House Votes 1984, Abalone, Forest Fires, and Machine CPU.\nAlgorithms implemented:\n\nk-Nearest Neighbors — Minkowski distance with configurable exponent, Value Distance Metric (VDM) for nominal attributes, Gaussian kernel-weighted regression, and a training set editing/condensing algorithm\nDecision Tree (CART) — Information gain ratio splitting for classification, MSE-minimizing splits for regression, and cost-complexity pruning on a held-out tuning set\nFeedforward Neural Network — Sigmoid activations, full backpropagation with the delta rule, softmax + cross-entropy loss for classification, MSE for regression, and optional autoencoder pre-training for unsupervised feature learning\n\nView Code"
   },
   {
+    "objectID": "coding-projects.html#rl-algorithms-from-scratch",
+    "href": "coding-projects.html#rl-algorithms-from-scratch",
+    "title": "Coding Projects",
+    "section": "RL Algorithms from Scratch",
+    "text": "RL Algorithms from Scratch\nTags: Python Reinforcement Learning NumPy pandas\nThree tabular reinforcement learning algorithms implemented from scratch — no RL frameworks, no external solvers. Each algorithm learns to navigate a custom racetrack environment with non-deterministic physics (20% chance of acceleration failure per step) across four track shapes and two crash-recovery behaviors.\nAlgorithms implemented:\n\nQ-Learning — Off-policy TD control; learns optimal Q-values via greedy bootstrapping with ε-annealing\nSARSA — On-policy TD control; updates Q-values using the actual next action taken, yielding more conservative policies\nValue Iteration — Model-based dynamic programming; iterates Bellman optimality equations to convergence, explicitly modeling both deterministic and stochastic transitions\n\nView Code"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Todd Iodice, CFA",

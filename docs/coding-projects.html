@@ -144,6 +144,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#ml-algorithms-from-scratch" id="toc-ml-algorithms-from-scratch" class="nav-link active" data-scroll-target="#ml-algorithms-from-scratch">ML Algorithms from Scratch</a></li>
+  <li><a href="#rl-algorithms-from-scratch" id="toc-rl-algorithms-from-scratch" class="nav-link" data-scroll-target="#rl-algorithms-from-scratch">RL Algorithms from Scratch</a></li>
   </ul>
 </nav>
     </div>
@@ -182,6 +183,18 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Feedforward Neural Network</strong> — Sigmoid activations, full backpropagation with the delta rule, softmax + cross-entropy loss for classification, MSE for regression, and optional autoencoder pre-training for unsupervised feature learning</li>
 </ul>
 <p><a href="https://github.com/dicer417/ml-algorithm-comparison" class="btn btn-sm btn-outline-primary">View Code</a></p>
+</section>
+<section id="rl-algorithms-from-scratch" class="level2 project-card">
+<h2 class="anchored" data-anchor-id="rl-algorithms-from-scratch">RL Algorithms from Scratch</h2>
+<p><strong>Tags:</strong> <code>Python</code> <code>Reinforcement Learning</code> <code>NumPy</code> <code>pandas</code></p>
+<p>Three tabular reinforcement learning algorithms implemented from scratch — no RL frameworks, no external solvers. Each algorithm learns to navigate a custom racetrack environment with non-deterministic physics (20% chance of acceleration failure per step) across four track shapes and two crash-recovery behaviors.</p>
+<p><strong>Algorithms implemented:</strong></p>
+<ul>
+<li><strong>Q-Learning</strong> — Off-policy TD control; learns optimal Q-values via greedy bootstrapping with ε-annealing</li>
+<li><strong>SARSA</strong> — On-policy TD control; updates Q-values using the actual next action taken, yielding more conservative policies</li>
+<li><strong>Value Iteration</strong> — Model-based dynamic programming; iterates Bellman optimality equations to convergence, explicitly modeling both deterministic and stochastic transitions</li>
+</ul>
+<p><a href="https://github.com/dicer417/reinforcement-learning-algorithm-comparison" class="btn btn-sm btn-outline-primary">View Code</a></p>
 </section>
 <!--
 HOW TO ADD A PROJECT
