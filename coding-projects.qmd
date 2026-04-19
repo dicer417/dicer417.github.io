@@ -4,9 +4,25 @@ toc: true
 toc-title: "Projects"
 ---
 
-A collection of my personal and professional coding projects spanning quantitative finance, data science, and software engineering. Projects include standalone tools, interactive Shiny dashboards, and API/backend work.
+A collection of personal and professional coding projects spanning machine learning, quantitative finance, and data science.
 
 ---
+
+::: {.project-card}
+## ML Algorithms from Scratch
+
+**Tags:** `Python` `Machine Learning` `NumPy` `pandas`
+
+Three machine learning algorithms implemented from scratch — no scikit-learn, no deep learning frameworks. Each algorithm supports both classification and regression and is benchmarked on six UCI datasets: Breast Cancer Wisconsin, Car Evaluation, House Votes 1984, Abalone, Forest Fires, and Machine CPU.
+
+**Algorithms implemented:**
+
+- **k-Nearest Neighbors** — Minkowski distance with configurable exponent, Value Distance Metric (VDM) for nominal attributes, Gaussian kernel-weighted regression, and a training set editing/condensing algorithm
+- **Decision Tree (CART)** — Information gain ratio splitting for classification, MSE-minimizing splits for regression, and cost-complexity pruning on a held-out tuning set
+- **Feedforward Neural Network** — Sigmoid activations, full backpropagation with the delta rule, softmax + cross-entropy loss for classification, MSE for regression, and optional autoencoder pre-training for unsupervised feature learning
+
+[View Code](https://github.com/dicer417/ml-algorithm-comparison){.btn .btn-sm .btn-outline-primary}
+:::
 
 <!--
 HOW TO ADD A PROJECT
@@ -30,7 +46,3 @@ Brief description of what the project does and why it's interesting.
 </details>
 :::
 -->
-
-::: {.callout-note}
-Projects coming soon. Check back shortly, or visit my [GitHub](https://github.com/) to see work in progress.
-:::
