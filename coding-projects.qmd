@@ -24,6 +24,22 @@ Three machine learning algorithms implemented from scratch — no scikit-learn, 
 [View Code](https://github.com/dicer417/ml-algorithm-comparison){.btn .btn-sm .btn-outline-primary}
 :::
 
+::: {.project-card}
+## RL Algorithms from Scratch
+
+**Tags:** `Python` `Reinforcement Learning` `NumPy` `pandas`
+
+Three tabular reinforcement learning algorithms implemented from scratch — no RL frameworks, no external solvers. Each algorithm learns to navigate a custom racetrack environment with non-deterministic physics (20% chance of acceleration failure per step) across four track shapes and two crash-recovery behaviors.
+
+**Algorithms implemented:**
+
+- **Q-Learning** — Off-policy TD control; learns optimal Q-values via greedy bootstrapping with ε-annealing
+- **SARSA** — On-policy TD control; updates Q-values using the actual next action taken, yielding more conservative policies
+- **Value Iteration** — Model-based dynamic programming; iterates Bellman optimality equations to convergence, explicitly modeling both deterministic and stochastic transitions
+
+[View Code](https://github.com/dicer417/reinforcement-learning-algorithm-comparison){.btn .btn-sm .btn-outline-primary}
+:::
+
 <!--
 HOW TO ADD A PROJECT
 =====================
