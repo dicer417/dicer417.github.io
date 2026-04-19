@@ -11,7 +11,14 @@
     "href": "coding-projects.html",
     "title": "Coding Projects",
     "section": "",
-    "text": "A collection of my personal and professional coding projects spanning quantitative finance, data science, and software engineering. Projects include standalone tools, interactive Shiny dashboards, and API/backend work.\n\n\n\n\n\n\n\n\nNote\n\n\n\nProjects coming soon. Check back shortly, or visit my GitHub to see work in progress."
+    "text": "A collection of personal and professional coding projects spanning machine learning, quantitative finance, and data science."
+  },
+  {
+    "objectID": "coding-projects.html#ml-algorithms-from-scratch",
+    "href": "coding-projects.html#ml-algorithms-from-scratch",
+    "title": "Coding Projects",
+    "section": "ML Algorithms from Scratch",
+    "text": "ML Algorithms from Scratch\nTags: Python Machine Learning NumPy pandas\nThree machine learning algorithms implemented from scratch — no scikit-learn, no deep learning frameworks. Each algorithm supports both classification and regression and is benchmarked on six UCI datasets: Breast Cancer Wisconsin, Car Evaluation, House Votes 1984, Abalone, Forest Fires, and Machine CPU.\nAlgorithms implemented:\n\nk-Nearest Neighbors — Minkowski distance with configurable exponent, Value Distance Metric (VDM) for nominal attributes, Gaussian kernel-weighted regression, and a training set editing/condensing algorithm\nDecision Tree (CART) — Information gain ratio splitting for classification, MSE-minimizing splits for regression, and cost-complexity pruning on a held-out tuning set\nFeedforward Neural Network — Sigmoid activations, full backpropagation with the delta rule, softmax + cross-entropy loss for classification, MSE for regression, and optional autoencoder pre-training for unsupervised feature learning\n\nView Code"
   },
   {
     "objectID": "about.html",

@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.27">
+<meta name="generator" content="quarto-1.9.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Coding Projects – Todd Iodice</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -32,15 +35,14 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-0b37c64f34216b628666a8dac638b53b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-4897d45d2f75ed4f519693be625836c5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -136,8 +138,14 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Projects</h2>
+   
+  <ul>
+  <li><a href="#ml-algorithms-from-scratch" id="toc-ml-algorithms-from-scratch" class="nav-link active" data-scroll-target="#ml-algorithms-from-scratch">ML Algorithms from Scratch</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -161,8 +169,20 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>A collection of my personal and professional coding projects spanning quantitative finance, data science, and software engineering. Projects include standalone tools, interactive Shiny dashboards, and API/backend work.</p>
+<p>A collection of personal and professional coding projects spanning machine learning, quantitative finance, and data science.</p>
 <hr>
+<section id="ml-algorithms-from-scratch" class="level2 project-card">
+<h2 class="anchored" data-anchor-id="ml-algorithms-from-scratch">ML Algorithms from Scratch</h2>
+<p><strong>Tags:</strong> <code>Python</code> <code>Machine Learning</code> <code>NumPy</code> <code>pandas</code></p>
+<p>Three machine learning algorithms implemented from scratch — no scikit-learn, no deep learning frameworks. Each algorithm supports both classification and regression and is benchmarked on six UCI datasets: Breast Cancer Wisconsin, Car Evaluation, House Votes 1984, Abalone, Forest Fires, and Machine CPU.</p>
+<p><strong>Algorithms implemented:</strong></p>
+<ul>
+<li><strong>k-Nearest Neighbors</strong> — Minkowski distance with configurable exponent, Value Distance Metric (VDM) for nominal attributes, Gaussian kernel-weighted regression, and a training set editing/condensing algorithm</li>
+<li><strong>Decision Tree (CART)</strong> — Information gain ratio splitting for classification, MSE-minimizing splits for regression, and cost-complexity pruning on a held-out tuning set</li>
+<li><strong>Feedforward Neural Network</strong> — Sigmoid activations, full backpropagation with the delta rule, softmax + cross-entropy loss for classification, MSE for regression, and optional autoencoder pre-training for unsupervised feature learning</li>
+</ul>
+<p><a href="https://github.com/dicer417/ml-algorithm-comparison" class="btn btn-sm btn-outline-primary">View Code</a></p>
+</section>
 <!--
 HOW TO ADD A PROJECT
 =====================
@@ -185,19 +205,6 @@ Brief description of what the project does and why it's interesting.
 </details>
 :::
 -->
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Projects coming soon. Check back shortly, or visit my <a href="https://github.com/">GitHub</a> to see work in progress.</p>
-</div>
-</div>
 
 
 
